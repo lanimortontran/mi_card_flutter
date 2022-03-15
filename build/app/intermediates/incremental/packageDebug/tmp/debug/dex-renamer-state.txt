@@ -1,4 +1,4 @@
-#Mon Mar 14 11:13:03 PDT 2022
+#Tue Mar 15 00:58:29 PDT 2022
 base.0=/Users/lani.mortontran/Flutter/complete_2021_flutter_dev_bootcamp_with_dart/mi_card_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
